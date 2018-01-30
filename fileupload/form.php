@@ -3,9 +3,7 @@
 <head>
     <meta charset="utf-8">
     <title>文件上传</title>
-    <link rel="shortcut icon" href="/favicon.ico" type="image/ico"  />
-    <link rel="icon" href="/favicon.ico" mce_href="favicon.ico" type="image/x-icon">
-    <link rel="shortcut icon" href="/favicon.ico" mce_href="/favicon.ico" type="image/x-icon">
+    <link type="favicon" rel="shortcut icon" href="../favicon.ico" />
     <style>
         body {
             width: 100%;
